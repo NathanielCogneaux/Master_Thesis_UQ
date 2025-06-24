@@ -6,6 +6,8 @@ Welcome to the official code and resource repository for the master's thesis:
 
 **Author:** Nathaniel Cogneaux
 
+**Supervisor:** Pr. Sungyong Baik
+
 **Institutions:** University Paris Sciences & Lettres (France) & University of Padua (Italy)
 
 **Research Host:** Hanyang University, Seoul, South Korea
