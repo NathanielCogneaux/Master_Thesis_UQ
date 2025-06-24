@@ -57,6 +57,9 @@ A simple, lightweight wrapper that estimates uncertainty without retraining.
 ✅ **Model-Agnostic**
 Compatible with any pre-trained model (LeNet, VGG, ResNet, WideResNet, etc.).
 
+✅ **Single-pass**
+Provides multiple outputs in a without multiple inferences.
+
 ✅ **Efficient & Scalable**
 Achieves near SoTA results with drastically lower computational cost.
 
