@@ -10,7 +10,6 @@ Welcome to the official code and resource repository for the master's thesis:
 
 This repository accompanies the thesis, which introduces a **novel post-hoc uncertainty quantification (UQ)** technique that is **efficient**, **model-agnostic**, works in a **single-pass** and applicable to **pre-trained deep neural networks** without retraining.
 
----
 
 ## Repository Contents
 
@@ -43,7 +42,6 @@ Master_Thesis_UQ/
 └── dissertation_defense.pdf                ← Slides of the Defense Presentation
 ```
 
----
 
 ## Project Highlights
 
@@ -65,7 +63,6 @@ Includes standard and corrupted datasets (CIFAR-10-C, CIFAR-100-C).
 ✅ **Thesis & Defense Slides**
 Theory fully explained and experimental insights.
 
----
 
 ## Thesis Summary
 
@@ -84,7 +81,6 @@ For a deep dive, please give a look at:
 * [`Master_s_thesis_Nathaniel_Cogneaux.pdf`](./Master_s_thesis_Nathaniel_Cogneaux.pdf), Full thesis (theory, method, results)
 * [`dissertation_defense.pdf`](./dissertation_defense.pdf), Defense presentation slides
 
----
 
 ## Quick Start
 
@@ -111,7 +107,6 @@ For a deep dive, please give a look at:
 4. **Try a notebook**
    Launch Jupyter and open any notebook in `examples/`.
 
----
 
 ## Reproducing Results
 
@@ -129,7 +124,6 @@ python numerical_experiments/wandb_module_hyperparameters_tuning.py
 
 All training/evaluation logic is managed through `dataloaders_and_metrics/` and `multi_output_module/`.
 
----
 
 ## 📘 Citation
 
@@ -146,7 +140,6 @@ If you use this work in your research, please cite:
 
 ```
 
----
 
 ## Contact
 
@@ -154,5 +147,3 @@ For questions or collaborations:
 
 * [Open a GitHub Issue](https://github.com/NathanielCogneaux/Master_Thesis_UQ/issues)
 * [LinkedIn Profile](https://www.linkedin.com/in/nathaniel-cogneaux/)
-
----
