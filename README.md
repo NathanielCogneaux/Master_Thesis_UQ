@@ -58,7 +58,7 @@ A simple, lightweight wrapper that estimates uncertainty without retraining.
 Compatible with any pre-trained model (LeNet, VGG, ResNet, WideResNet, etc.).
 
 ✅ **Single-pass**
-Provides multiple outputs in a without multiple inferences.
+Provides multiple outputs with just one inference, no sampling is needed.
 
 ✅ **Efficient & Scalable**
 Achieves near SoTA results with drastically lower computational cost.
@@ -71,13 +71,6 @@ Includes standard and corrupted datasets (CIFAR-10-C, CIFAR-100-C).
 
 ✅ **Thesis & Defense Slides**
 Theory fully explained and experimental insights.
-
-
-## Thesis Summary
-
-Modern deep neural networks (DNNs) are powerful but often **overconfident**, especially when they’re wrong. In safety-critical systems, this is unacceptable.
-
-> This work proposes a **post-hoc meta-model** that can be added on top of any pre-trained model to provide meaningful uncertainty estimates **in a single forward pass**, without requiring retraining or architectural knowledge.
 
 Results demonstrate robust uncertainty quantification on:
 
@@ -96,7 +89,7 @@ For a deep dive, please give a look at:
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your_username/Master_Thesis_UQ.git
+   git clone https://github.com/NathanielCogneaux/Master_Thesis_UQ.git
    cd Master_Thesis_UQ
    ```
 
