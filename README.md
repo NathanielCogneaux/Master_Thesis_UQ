@@ -2,11 +2,11 @@
 
 Welcome to the official code and resource repository for the master's thesis:
 
-> **Title:** *Uncertainty Quantification in Deep Learning*
-> **Author:** Nathaniel Cogneaux
-> **Institutions:** University Paris Sciences & Lettres (France) & University of Padua (Italy)
-> **Research Host:** Hanyang University, Seoul, South Korea
-> **Year:** 2024
+**Title:** *Uncertainty Quantification in Deep Learning*
+**Author:** Nathaniel Cogneaux
+**Institutions:** University Paris Sciences & Lettres (France) & University of Padua (Italy)
+**Research Host:** Hanyang University, Seoul, South Korea
+**Year:** 2024
 
 This repository accompanies the thesis, which introduces a **novel post-hoc uncertainty quantification (UQ)** technique that is **efficient**, **model-agnostic**, works in a **single-pass** and applicable to **pre-trained deep neural networks** without retraining.
 
