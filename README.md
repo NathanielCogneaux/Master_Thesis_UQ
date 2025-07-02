@@ -1,4 +1,4 @@
-# 🎓 Uncertainty Quantification in Deep Learning - Master Thesis Repository
+# 🎓 Uncertainty Quantification in Deep Learning (Computer Vision mostly) - Master Thesis Repository
 
 Welcome to the official code and resource repository for the master's thesis:
 
